@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/21 11:44:46.000.493,=rtl.dcp</Transaction>
+    <Transaction>2024/07/21 11:47:34.000.519,=D:\Delphi\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/07/21 11:48:14.000.946,D:\Delphi\Projetos Delphi 11\Unit1.pas=D:\Blog Delphi\projetos\CriarComponente\MyButtonUnit.pas</Transaction>
+    <Transaction>2024/07/21 11:49:17.000.565,D:\Delphi\Projetos Delphi 11\Package1.dproj=D:\Blog Delphi\projetos\CriarComponente\Package1.dproj</Transaction>
+    <Transaction>2024/07/21 11:51:23.000.017,=vcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
